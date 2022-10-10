@@ -1,6 +1,7 @@
 """Forms of the project."""
 from enum import unique
 from django import forms
+from .models import Thing
 
 # Create your forms here.
 
